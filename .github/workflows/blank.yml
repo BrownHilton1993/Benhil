@@ -1,4 +1,4 @@
-name: Windows - LiteManager
+name: biarin - aja
 
 on:
   workflow_dispatch:
